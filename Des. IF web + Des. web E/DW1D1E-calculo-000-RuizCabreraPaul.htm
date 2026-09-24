@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>calculo</title>
+</head>
+
+<body>
+
+<p id='resul'></p>
+
+<script>
+
+
+    var alto=10;
+    var ancho=20;
+    var fondo=30;
+
+    var alto = prompt("Alto (m)?", "");
+    var ancho = prompt("Ancho (m)?", "");
+    var fondo = prompt("Fondo (m)?", "");
+
+    var superficie=fondo*ancho;
+    var s2=superficie*3.28;
+    var volumen=superficie*alto;
+    var v2=volumen*3.28;
+
+    var texto="alto = "+alto+"<br/>ancho = "+ancho+"<br/>fondo = "+fondo+"<br/>superficie = "+superficie+" ( "+s2.toFixed(2)+" pies )"+"<br/>volumen = "+volumen+" ( "+v2.toFixed(2)+" pies )";
+
+    document.getElementById("resul").innerHTML=texto;
+
+</script>
+</body>
+</html>

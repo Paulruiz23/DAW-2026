@@ -1,0 +1,18 @@
+<contactos>
+  <contacto agenda="personal">
+ 	  <nombre> juan  </nombre>
+	  <telefonos>
+		  <telefono tipo="casa">4454555544</telefono>
+		  <telefono tipo="movil">454455457</telefono>
+		  <telefono tipo="trabajo">45415877</telefono>
+	  </telefonos>
+   </contacto>
+   <contacto agenda="profesional">
+	   <nombre>Pedro</nombre>
+	   <telefonos>
+		   <telefono tipo="casa">4454555544</telefono>
+		   <telefono tipo="movil">454455457</telefono>
+		   <telefono tipo="trabajo">45415877</telefono>
+	   </telefonos>
+    </contacto>
+</contactos>

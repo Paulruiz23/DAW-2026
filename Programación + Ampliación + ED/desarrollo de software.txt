@@ -1,0 +1,26 @@
+desarrollo de software
+fases principales
+análisis 
+diseño
+codificación
+pruebas 
+mantenimiento
+
+modelos de desarrollo
+ modelo en cascada(waterfall)
+  cascada con retroalimentación 
+ modelo en V
+ modelo de ciclo de vida evolutivos
+  iterativo incremental
+ modelo en espiral
+ modelos 
+  Kanban y scrum
+  programación extrema (XP)
+ 
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<vehiculos>
+    <vehiculo categoria = " deportivo ">
+        <nombre>ferrari 401</nombre>
+        <velocidad_maxima> &gt;220 km/h </velocidad_maxima>
+    </vehiculo>
+    <vehiculo categoria = " 4x4 ">
+        <nombre>ford raptor</nombre>
+        <velocidad_maxima> &lt;160 km/h </velocidad_maxima>
+    </vehiculo>
+    <vehiculo categoria = " urbano ">
+        <nombre>seat leon</nombre>
+        <velocidad_maxima> &lt; 100 km/h </velocidad_maxima>
+    </vehiculo>
+</vehiculos>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ciudades>
+    <ciudad>
+        <nombre>tokio</nombre>
+        <pais continente = "Asia"> japon</pais>
+    </ciudad>
+    <ciudad>
+        <nombre>madrid</nombre>
+        <pais continente = "Europa"> españa</pais>
+    </ciudad>
+    <ciudad>
+        <nombre>lima</nombre>
+        <pais continente = "America">Peru</pais>
+    </ciudad>
+</ciudades>

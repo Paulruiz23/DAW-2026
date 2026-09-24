@@ -1,0 +1,14 @@
+1:
+https://www.craigslist.org/area/sfbay
+exceso de enlaces y casi todos usan el mismo color
+no se puede diferenciar las categorías
+
+2:
+https://art.yale.edu/
+mucha información en pantalla
+texto e imágenes muy grandes
+
+3:
+https://arngren.net/
+exceso de imágenes y enlaces
+poco intuitivo para el usuario
