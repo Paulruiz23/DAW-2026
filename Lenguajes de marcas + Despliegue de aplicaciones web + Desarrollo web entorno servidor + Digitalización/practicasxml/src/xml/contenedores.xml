@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<contenedores>
+    <!--Contenedor 1-->
+    <contenedor tipo="Grande">
+       <envase tipo="Grande ancho">
+           <liquido> Aceite </liquido>
+           <liquido> Agua </liquido>
+           <liquido> Leche </liquido>
+           <liquido> Vinagre </liquido>
+       </envase>
+        <envase tipo="Grande alto">
+            <liquido> Aceite </liquido>
+            <liquido> Agua </liquido>
+            <liquido> Leche </liquido>
+            <liquido> Vinagre </liquido>
+        </envase>
+    </contenedor>
+
+    <!--Contenedor 2-->
+    <contenedor tipo="Mediano">
+        <envase tipo="Mediano Ancho">
+            <liquido> Aceite </liquido>
+            <liquido> Agua </liquido>
+            <liquido> Leche </liquido>
+            <liquido> Vinagre </liquido>
+        </envase>
+        <envase tipo="Mediano Alto">
+            <liquido> Lejía </liquido>
+            <liquido> Amoniaco </liquido>
+            <liquido> Aguarras </liquido>
+            <liquido> Gasolina </liquido>
+            <liquido> Alcohol </liquido>
+            <liquido> Jabon </liquido>
+        </envase>
+        <envase tipo="Pequeño">
+            <liquido> Lejía </liquido>
+            <liquido> Amoniaco </liquido>
+            <liquido> Aguarras </liquido>
+            <liquido> Gasolina </liquido>
+            <liquido> Alcohol </liquido>
+            <liquido> Jabon </liquido>
+        </envase>
+    </contenedor>
+
+    <!--Contenedor 3-->
+    <contenedor tipo="Vertical">
+        <envase tipo="Grande alto">
+            <liquido> Aceite </liquido>
+            <liquido> Agua </liquido>
+            <liquido> Leche </liquido>
+            <liquido> Vinagre </liquido>
+        </envase>
+        <envase tipo="Mediano alto">
+            <liquido> Lejía </liquido>
+            <liquido> Amoniaco </liquido>
+            <liquido> Aguarras </liquido>
+            <liquido> Gasolina </liquido>
+            <liquido> Alcohol </liquido>
+            <liquido> Jabon </liquido>
+        </envase>
+    </contenedor>
+</contenedores>
