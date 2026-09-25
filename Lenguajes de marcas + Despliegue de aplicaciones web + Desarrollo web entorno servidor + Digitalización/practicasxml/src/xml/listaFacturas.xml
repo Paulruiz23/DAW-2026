@@ -1,0 +1,38 @@
+<listaFacturas>
+    <factura>
+        <emisor nif="324325235">
+            <nombre>Giovana Cabrera</nombre>
+        </emisor>
+
+        <pagador nif ="32566234234">
+            <nombre>Pedro Ruiz</nombre>
+        </pagador>
+
+        <importe>1500</importe>
+
+    </factura>
+    <factura>
+        <emisor nif="1228499">
+            <nombre>Joseline Cabrera</nombre>
+        </emisor>
+
+        <pagador nif ="189994234">
+            <nombre>Aaron Ramirez</nombre>
+        </pagador>
+
+        <importe>100</importe>
+
+    </factura>
+    <factura>
+        <emisor nif="0223188">
+            <nombre>Marianela Gonzales</nombre>
+        </emisor>
+
+        <pagador nif ="925965467">
+            <nombre>Milena Durand</nombre>
+        </pagador>
+
+        <importe>500</importe>
+
+    </factura>
+</listaFacturas>
