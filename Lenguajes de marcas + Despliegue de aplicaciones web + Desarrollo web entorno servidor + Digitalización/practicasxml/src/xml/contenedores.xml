@@ -27,18 +27,18 @@
         <envase tipo="Mediano Alto">
             <liquido> Lejía </liquido>
             <liquido> Amoniaco </liquido>
-            <liquido> Aguarras </liquido>
+            <liquido> Aguarrás </liquido>
             <liquido> Gasolina </liquido>
             <liquido> Alcohol </liquido>
-            <liquido> Jabon </liquido>
+            <liquido> Jabón </liquido>
         </envase>
         <envase tipo="Pequeño">
             <liquido> Lejía </liquido>
             <liquido> Amoniaco </liquido>
-            <liquido> Aguarras </liquido>
+            <liquido> Aguarrás </liquido>
             <liquido> Gasolina </liquido>
             <liquido> Alcohol </liquido>
-            <liquido> Jabon </liquido>
+            <liquido> Jabón </liquido>
         </envase>
     </contenedor>
 
@@ -53,10 +53,10 @@
         <envase tipo="Mediano alto">
             <liquido> Lejía </liquido>
             <liquido> Amoniaco </liquido>
-            <liquido> Aguarras </liquido>
+            <liquido> Aguarrás </liquido>
             <liquido> Gasolina </liquido>
             <liquido> Alcohol </liquido>
-            <liquido> Jabon </liquido>
+            <liquido> Jabón </liquido>
         </envase>
     </contenedor>
 </contenedores>

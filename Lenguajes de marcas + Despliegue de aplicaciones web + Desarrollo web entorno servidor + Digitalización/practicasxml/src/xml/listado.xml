@@ -34,14 +34,14 @@
     <!-- Alumno 2 -->
     <alumno>
         <datos>
-            <nombre>Paula Jovellanos Hernan</nombre>
-            <direccion></direccion>
-            <fechaNacimiento></fechaNacimiento>
+            <nombre>Paula Jovellanos    Hernán</nombre>
+            <direccion> </direccion>
+            <fechaNacimiento> </fechaNacimiento>
         </datos>
 
         <progenitor tipo="Madre">
             <nombre>Elena Garrido Sanz</nombre>
-            <documento></documento>
+            <documento> </documento>
         </progenitor>
 
         <personaAutorizada>
@@ -61,8 +61,8 @@
     <alumno>
         <datos>
             <nombre>Antonio Norma Flores</nombre>
-            <direccion></direccion>
-            <fechaNacimiento></fechaNacimiento>
+            <direccion> </direccion>
+            <fechaNacimiento> </fechaNacimiento>
         </datos>
 
         <tutoriaLegal>Ana Maria Gil Gil</tutoriaLegal>

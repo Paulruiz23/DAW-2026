@@ -3,14 +3,14 @@
     "tipo": "Grande",
     "envases": [ {
       "tipo": "Grande Ancho",
-      "liquidos": [
+      "líquidos": [
         { "tipo": "alimento", "text": "Agua" },
         { "tipo": "alimento", "text": "Leche" },
         { "tipo": "alimento", "text": "Aceite" },
         { "tipo": "alimento", "text": "Vinagre" } ]
     }, {
       "tipo": "Grande Alto",
-      "liquidos": [
+      "líquidos": [
         { "tipo": "alimento", "text": "Agua" },
         { "tipo": "alimento", "text": "Leche" },
         { "tipo": "alimento", "text": "Aceite" },
@@ -20,14 +20,14 @@
     "tipo": "Mediano",
     "envases": [ {
       "tipo": "Mediano Ancho",
-      "liquidos": [
+      "líquidos": [
         { "tipo": "alimento", "text": "Agua" },
         { "tipo": "alimento", "text": "Leche" },
         { "tipo": "alimento", "text": "Aceite" },
         { "tipo": "alimento", "text": "Vinagre" } ]
     }, {
       "tipo": "Mediano Alto",
-      "liquidos": [
+      "líquidos": [
         { "tipo": "corrosivo", "text": "Lejía" },
         { "tipo": "corrosivo", "text": "Amoniaco" },
         { "tipo": "corrosivo", "text": "Jabón" },
@@ -36,7 +36,7 @@
         { "tipo": "corrosivo", "text": "Alcohol" } ]
     }, {
       "tipo": "Pequeño",
-      "liquidos": [
+      "líquidos": [
         { "tipo": "corrosivo", "text": "Lejía" },
         { "tipo": "corrosivo", "text": "Amoniaco" },
         { "tipo": "corrosivo", "text": "Jabón" },
@@ -48,14 +48,14 @@
     "tipo": "Vertical",
     "envases": [ {
       "tipo": "Grande Alto",
-      "liquidos": [
+      "líquidos": [
         { "tipo": "alimento", "text": "Agua" },
         { "tipo": "alimento", "text": "Leche" },
         { "tipo": "alimento", "text": "Aceite" },
         { "tipo": "alimento", "text": "Vinagre" } ]
     }, {
       "tipo": "Mediano Alto",
-      "liquidos": [
+      "líquidos": [
         { "tipo": "corrosivo", "text": "Lejía" },
         { "tipo": "corrosivo", "text": "Amoniaco" },
         { "tipo": "corrosivo", "text": "Jabón" },
